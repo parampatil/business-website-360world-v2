@@ -3,8 +3,10 @@ import { MenuItem } from "@/types/ui";
 
 export const menuItems: MenuItem[] = [
   { label: "Home", href: "/" },
-  { label: "About", href: "/about" },
-  { label: "Contact", href: "/contact" },
+  // { label: "About", href: "/about" },
+  // { label: "Contact", href: "/contact" },
+  { label: "Partners", href: "/partners" },
+  { label: "Investors", href: "/investors" },
   // Add more menu items as needed
 ];
 
